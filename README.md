@@ -10,6 +10,9 @@ A Flutter widget for login page .
 To use this package, add login_in as a dependency in your pubspec.yaml file.
 
 ## Usage
-
- LoginIn()
+Minimal Example:
+'''dart
+    LoginIn()
+'''    
+    
 
